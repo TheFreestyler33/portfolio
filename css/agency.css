@@ -422,9 +422,9 @@ section h3.section-subheading {
   position: absolute;
   z-index: 100;
   background-color: #fed136;
-  color: white;
+  color: #333333;
   border-radius: 100%;
-  border: 7px solid #f1f1f1;
+  border: 7px solid #333333;
   text-align: center;
 }
 .timeline > li .timeline-image h4 {
